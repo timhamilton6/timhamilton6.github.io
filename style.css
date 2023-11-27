@@ -77,6 +77,12 @@ a, a:visited {
     color: #03c988;
 }
 
+h1 {
+	font-size: 42px;
+	margin-bottom: .5rem;
+	font-weight: 600;
+}
+
 p {
     font-size: 22px;
     margin-bottom: 2rem;
