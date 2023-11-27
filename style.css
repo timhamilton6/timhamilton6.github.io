@@ -50,11 +50,6 @@ table {
 
 /*Page code*/
 
- @font-face{
-    font-family: 'ampersandist_v0.2medium';
-    src: url('ampersandist_v0.2-medium-webfont.woff') format('woff');
-}
-
 html {
     background: #141A1F;
 }
@@ -65,7 +60,7 @@ body {
     justify-content: center;
     height: 100vh;
     color: #fff;
-    font-family: 'ampersandist_v0.2medium', serif;
+    font-family: 'Inter', sans-serif;
     font-weight: 500;
     font-style: normal;
 }
